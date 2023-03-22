@@ -1,2 +1,3 @@
 # SalsasTikal
-Página web. Propuesta de diseño básico de pagina web para una empresa de salsas. Pagina home.
+Página web. 
+Propuesta de diseño básico de pagina web (inicio) para una empresa de salsas.
