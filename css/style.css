@@ -1,0 +1,31 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.image-bg{
+    background: url('../images/tomatoes.jpg') fixed no-repeat center top;
+}
+
+.image-bg-opacity{
+    background-color: rgba(0, 0, 0,0.25);
+}
+
+.blanco{
+    background-color: white;
+}
+
+.rojo{
+    background-color: rgb(238, 127, 127);
+}
+
+.btn-blanco{
+    color: rgb(238, 127, 127)!important;
+    background-color: white!important;
+    font-size: 1.3rem!important;
+}
+
+.btn-rosa{
+    color: white!important;
+    background-color: rgb(238, 127, 127)!important;
+    font-size: 1.3rem!important;
+}
